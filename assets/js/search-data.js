@@ -514,19 +514,9 @@ ninja.data = [{
           section: "News",},{id: "news-a-paper-hurricast-synthetic-tropical-cyclone-track-generation-for-hurricane-forecasting-is-accepted-to-the-sss-25-symposium-at-aaai-2025",
           title: 'A paper “HurriCast: Synthetic Tropical Cyclone Track Generation for Hurricane Forecasting” is accepted...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+          section: "News",},{id: "projects-axolotl",
+          title: 'Axolotl',
+          description: "Object-Aware Remote Memory for HPC Applications",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
@@ -534,31 +524,16 @@ ninja.data = [{
           description: "another without an image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-loxia",
+          title: 'Loxia',
+          description: "A Self-Guided System for Optimizing Feature Selection and Model Pruning in Scientific Machine Learning Models",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+              window.location.href = "/projects/loxia_project/";
+            },},{id: "projects-maeta",
+          title: 'MAETA',
+          description: "Identifying and Mitigating the Memory Bottleneck in Scientific ML Models through Execution Trace Analysis",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
+              window.location.href = "/projects/meata_project/";
             },},{
         id: 'social-email',
         title: 'email',
