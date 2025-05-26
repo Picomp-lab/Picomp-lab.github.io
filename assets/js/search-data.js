@@ -49,7 +49,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/Join%20us/";
+            window.location.href = "/Join-us/";
           },
         },{id: "post-a-post-with-plotly-js",
         
@@ -506,8 +506,8 @@ ninja.data = [{
           section: "News",},{id: "news-dr-dong-will-serve-as-a-tpc-member-of-the-hpdc-25",
           title: 'Dr.Dong will serve as a TPC member of the HPDC’25.',
           description: "",
-          section: "News",},{id: "news-dr-dong-will-serve-as-a-publicity-chair-of-the-ics-25-please-check-the-call-for-paper",
-          title: 'Dr.Dong will serve as a publicity chair of the ICS’25. Please check the...',
+          section: "News",},{id: "news-a-phd-student-shouwei-gao-joined-picom-lab",
+          title: 'A PhD student Shouwei Gao joined Picom Lab.',
           description: "",
           section: "News",},{id: "news-ics-25-is-running-the-2nd-cycle-for-paper-submission-abstract-ddl-is-february-24-2025-again-the-notification-date-of-ics-25-is-before-the-sc-25-paper-submission",
           title: 'ICS’25 is running the 2nd cycle for paper submission (Abstract DDL is February...',
