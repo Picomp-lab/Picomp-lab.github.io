@@ -412,8 +412,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-dr-dong-will-join-fiu-as-a-tenure-track-assistant-professor",
-          title: 'Dr.Dong will join FIU as a tenure-track assistant professor.',
+            },},{id: "news-the-picom-lab-has-been-lauched-in-florida-internationl-university-at-miami-fl",
+          title: 'The Picom lab has been lauched in Florida Internationl University at Miami, FL....',
           description: "",
           section: "News",},{id: "news-a-paper-betty-enabling-large-scale-gnn-training-with-batch-level-graph-partitioning-is-accepted-by-asplos-23",
           title: 'A paper “Betty: Enabling Large-Scale GNN Training with Batch-Level Graph Partitioning” is accepted...',
