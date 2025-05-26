@@ -472,7 +472,7 @@ ninja.data = [{
           section: "News",},{id: "news-one-paper-was-accepted-by-icml-24",
           title: 'One paper was accepted by ICML’24.',
           description: "",
-          section: "News",},{id: "news-our-request-for-resources-to-advance-ai-infrastructure-has-been-awarded-by-the-nsf-nairr-pilot",
+          section: "News",},{id: "news-our-request-for-resources-to-advance-ai-infrastructure-has-been-awarded-by-the-nsf-nairr-pilot-thank-you-to-the-nsf-doe-and-tacc",
           title: 'Our request for resources to advance AI infrastructure has been awarded by the...',
           description: "",
           section: "News",},{id: "news-our-request-for-resources-to-advance-ai-infrastructure-has-been-awarded-by-the-nsf-nairr-pilot-thank-you-to-the-nsf-doe-and-tacc",
