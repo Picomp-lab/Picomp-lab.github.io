@@ -484,7 +484,7 @@ ninja.data = [{
           section: "News",},{id: "news-nsf-cns-has-awarded-our-application-of-the-student-travel-grant-for-icpp-2024-cns-2422988-this-will-undoubtedly-bring-great-joy-to-the-students",
           title: 'NSF CNS has awarded our application of the student travel grant for ICPP...',
           description: "",
-          section: "News",},{id: "news-nsf-oac-has-awarded-our-project-cybertraining-pioneering-a-ci-workforce-for-sustainable-and-transdisciplinary-environmental-science-research-oac-2417849-thanks-nsf",
+          section: "News",},{id: "news-nsf-oac-has-awarded-our-project-cybertraining-pioneering-a-ci-workforce-for-sustainable-and-transdisciplinary-environmental-science-research-oac-2417849",
           title: 'NSF OAC has awarded our project “CyberTraining: Pioneering a CI Workforce for Sustainable...',
           description: "",
           section: "News",},{id: "news-nsf-cns-has-awarded-our-application-for-the-student-travel-grant-for-icpp-2024-cns-2422988-this-will-undoubtedly-bring-great-joy-to-the-students",
