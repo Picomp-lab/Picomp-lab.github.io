@@ -21,6 +21,7 @@ SciML is undergoing a paradigm shift with the advent of foundation models like A
 </figure>
 
 **Accelerating Large-Scale AI Models on AI Accelerators**
+
 <p>
 The acceleration of large-scale AI models is undergoing a paradigm shift with the rise of specialized hardware such as NVIDIA GPUs, Google TPUs, Cerebras wafer-scale processors, and FPGA-based systems. These accelerators are tailored to the computational needs of LLMs, GNNs, and CNNs, enabling massive parallelism, high-bandwidth memory access, and optimized data movement. Cerebras eliminates inter-chip communication bottlenecks with wafer-scale integration, achieving training throughput that was previously unattainable.
 </p>
@@ -29,7 +30,6 @@ The acceleration of large-scale AI models is undergoing a paradigm shift with th
         <img src="/assets/img/llama_inference_flops-1.png" alt="FLOPs comparison: Cerebras v.s. A100" style="width: 80%; max-width: 800px;" />
         <figcaption>_Performance Comparsion (Between Nvidia A100 & Cerebras) for LLM Inference With Unstructured Sparsity _</figcaption>
 </figure>
-
 
 **System Optimization for Large Scale AI Models**
 
@@ -40,5 +40,3 @@ The acceleration of large-scale AI models is undergoing a paradigm shift with th
         <img src="/assets/img/KVcache.png" alt="Trends in Foundation Models" style="width: 80%; max-width: 800px;" />
         <figcaption>_Memory Bottleneck in Long Context LLM Learning and Inference_</figcaption>
 </figure>
-
-

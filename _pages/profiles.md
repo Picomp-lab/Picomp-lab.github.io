@@ -117,8 +117,6 @@ nav: true
 <br>
 <br clear="left"/>
 
-
-
 ---
 
 **Undergraduate Students**

@@ -8,11 +8,10 @@ nav_order: 5
 
 <!-- ## 2023 -->
 
-
 - **Enabling Unstructured Sparse Fine-Tuning and Inference for Foundation Models on Wafer-Scale Engine**
 
   Haoyu Zheng, Yifan Zeng, Linghao Song, Murali Emani, **Wenqian Dong**
-  In the ExHetAI25 Workshops of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC'25 workshop)  [<a href="">paper</a>]
+  In the ExHetAI25 Workshops of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC'25 workshop) [<a href="">paper</a>]
 
 - **HurriCast: Synthetic Tropical Cyclone Track Generation for Hurricane Forecasting**
 
