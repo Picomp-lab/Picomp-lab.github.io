@@ -26,7 +26,7 @@ The acceleration of large-scale AI models is undergoing a paradigm shift with th
 </p>
 
 <figure>
-        <img src="/assets/img/llama_inference_flops-1.jpg" alt="FLOPs comparison: Cerebras v.s. A100" style="width: 80%; max-width: 800px;" />
+        <img src="/assets/img/llama_inference_flops-1.png" alt="FLOPs comparison: Cerebras v.s. A100" style="width: 80%; max-width: 800px;" />
         <figcaption>_Performance Comparsion (Between Nvidia A100 & Cerebras) for LLM Inference With Unstructured Sparsity _</figcaption>
 </figure>
 
@@ -37,7 +37,7 @@ The acceleration of large-scale AI models is undergoing a paradigm shift with th
 </p>
 
 <figure>
-        <img src="/assets/img/KVcache.jpg" alt="Trends in Foundation Models" style="width: 80%; max-width: 800px;" />
+        <img src="/assets/img/KVcache.png" alt="Trends in Foundation Models" style="width: 80%; max-width: 800px;" />
         <figcaption>_Memory Bottleneck in Long Context LLM Learning and Inference_</figcaption>
 </figure>
 
