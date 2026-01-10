@@ -7,6 +7,7 @@ nav: true
 nav_order: 3
 display_categories: [Ongoing, Completed]
 horizontal: true
+published: false
 ---
 
 **Exploring Next-Generation AI for Scientific Discovery**

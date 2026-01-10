@@ -8,6 +8,10 @@ nav_order: 5
 
 <!-- ## 2023 -->
 
+- **Framework for tracking metadata, lineage and model provenance in hybrid simulation-AI HPC exascale workflows**
+  Martin Foltin, Andrew Shao, Rishabh Sharma, Shreyas Kulkarni, Annmary Justine Koomthanam, Aalap Tripathy, Cong Xu, **Wenqian Dong**, Suparna Bhattacharya, Brian Sammuli, Paolo Faraboschi
+  In CUG '25: Proceedings of the Cray User Group [<a href="https://dl.acm.org/doi/10.1145/3757348.3757364">paper</a>]
+
 - **LUMOS: Democratizing SciML Workflows with L0-Regularized Learning for Unified Feature and Parameter Adaptation**
   Shouwei Gao, Xu Zheng, Dongsheng Luo, Di Sheng, Wenqian Dong
   In the 40th IEEE International Parallel & Distributed Processing Symposium (IPDPS'26) [<a href="">paper</a>]
@@ -15,7 +19,7 @@ nav_order: 5
 - **Enabling Unstructured Sparse Fine-Tuning and Inference for Foundation Models on Wafer-Scale Engine**
 
   Haoyu Zheng, Yifan Zeng, Linghao Song, Murali Emani, **Wenqian Dong**
-  In the ExHetAI25 Workshops of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC'25 workshop) [<a href="">paper</a>]
+  In the ExHetAI25 Workshops of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC'25 workshop) [<a href="">paper</a>] [<a href="../slides/publication/Phoenix - SC'25.pdf">slides</a>] [<a href="https://github.com/Picomp-lab/Phoenix">code</a>]
 
 - **HurriCast: Synthetic Tropical Cyclone Track Generation for Hurricane Forecasting**
 

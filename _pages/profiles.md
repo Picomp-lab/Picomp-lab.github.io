@@ -54,21 +54,6 @@ nav: true
 </div>  
 <br>
 
-<div class="row justify-content-md-center">
-    <div class="col-sm-3">
-        <img class="img-fluid rounded z-depth-1 profile-img" src="{{ '/assets/img/haoyu.png' | relative_url }}" alt="" title="Haoyu Zheng"/>
-    </div>
-    <div class="col-sm-4">
-        <b>Haoyu Zheng</b> <br>
-        Ph.D. student (Fall 2023 --) <br>
-        Email: <a href="mailto:zhenghaoy@oregonstate.edu">zhenghaoy@oregonstate.edu</a> <br> 
-    </div>
-    <div class="col-sm-5">
-        Haoyu's research interests include system optimization on noval AI accelerators such as Cerebras .
-    </div>  
-</div>  
-<br>
-<br clear="left"/>
 
 <div class="row justify-content-md-center">
     <div class="col-sm-3">
@@ -76,7 +61,7 @@ nav: true
     </div>
     <div class="col-sm-4">
         <b>Arunavo Dey</b> <br>
-        Ph.D. student (Fall 2023 --) <br>
+        Ph.D. student (Fall 2025 --) <br>
         Email: <a href="mailto:deyaru@oregonstate.edu">deyaru@oregonstate.edu</a> <br> 
     </div>
     <div class="col-sm-5">
@@ -135,6 +120,7 @@ nav: true
 
 **Alumni**
 
+- Haoyu Zheng
 - Meiyan Gao First employment: Neocis Inc.
 
 <div class="people">
