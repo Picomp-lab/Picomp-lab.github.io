@@ -23,13 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/news/";
           },
-        },{id: "nav-research",
-          title: "Research",
-          description: "A gallary of research projects",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/Projects/";
-          },
         },{id: "nav-publications",
           title: "Publications",
           description: "",
@@ -465,6 +458,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-a-paper-hurricast-synthetic-tropical-cyclone-track-generation-for-hurricane-forecasting-is-accepted-to-the-sss-25-symposium-at-aaai-2025",
           title: 'A paper “HurriCast: Synthetic Tropical Cyclone Track Generation for Hurricane Forecasting” is accepted...',
+          description: "",
+          section: "News",},{id: "news-a-paper-framework-for-tracking-metadata-lineage-and-model-provenance-in-hybrid-simulation-ai-hpc-exascale-workflows-is-accepted-in-cug-25",
+          title: 'A paper “Framework for tracking metadata, lineage and model provenance in hybrid simulation-AI...',
           description: "",
           section: "News",},{id: "news-nsf-oac-has-awarded-our-project-oac-core-ai-surrogate-enhanced-heterogeneous-acceleration-for-large-scale-power-grid-simulation-oac-2505118-thanks-nsf",
           title: 'NSF OAC has awarded our project “OAC Core: AI-Surrogate Enhanced Heterogeneous Acceleration for...',
