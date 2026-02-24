@@ -405,8 +405,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-the-picom-lab-has-been-lauched-in-florida-internationl-university-at-miami-fl",
-          title: 'The Picom lab has been lauched in Florida Internationl University at Miami, FL....',
+            },},{id: "news-the-picomp-lab-has-been-lauched-in-florida-internationl-university-at-miami-fl",
+          title: 'The Picomp lab has been lauched in Florida Internationl University at Miami, FL....',
           description: "",
           section: "News",},{id: "news-a-paper-betty-enabling-large-scale-gnn-training-with-batch-level-graph-partitioning-is-accepted-by-asplos-23",
           title: 'A paper “Betty: Enabling Large-Scale GNN Training with Batch-Level Graph Partitioning” is accepted...',
@@ -417,8 +417,8 @@ ninja.data = [{
           section: "News",},{id: "news-a-paper-auto-hpcnet-an-automatic-framework-to-build-neural-network-based-surrogate-models-for-hpc-applications-is-accepted-in-hpdc-23",
           title: 'A paper “Auto-HPCnet: An Automatic Framework to Build Neural Network-based Surrogate Models for...',
           description: "",
-          section: "News",},{id: "news-a-phd-student-shouwei-gao-joined-picom-lab",
-          title: 'A PhD student Shouwei Gao joined Picom Lab.',
+          section: "News",},{id: "news-a-phd-student-shouwei-gao-joined-picomp-lab",
+          title: 'A PhD student Shouwei Gao joined Picomp Lab.',
           description: "",
           section: "News",},{id: "news-dr-dong-will-serve-as-a-tpc-member-of-sdm-24-and-ccgrid-24",
           title: 'Dr.Dong will serve as a TPC member of SDM’24 and CCGrid’24.',
