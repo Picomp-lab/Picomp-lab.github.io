@@ -8,6 +8,10 @@ nav_order: 5
 
 <!-- ## 2023 -->
 
+- **FLYING SERVING: On-the-Fly Parallelism Switching for Large Language Model Serving**
+  Shouwei Gao, Junqi Yin, Feiyi Wang, **Wenqian Dong**
+  In the ACM International Conference on Supercomputing (ICS'26) [<a href="https://dipsa-qub.github.io/ICS2026-webpage/">paper</a>]
+
 - **LUMOS: Democratizing SciML Workflows with L0-Regularized Learning for Unified Feature and Parameter Adaptation**
   Shouwei Gao, Xu Zheng, Dongsheng Luo, Di Sheng, Wenqian Dong
   In the 40th IEEE International Parallel & Distributed Processing Symposium (IPDPS'26) [<a href="">paper</a>]
