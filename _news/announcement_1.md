@@ -6,4 +6,4 @@ related_posts: false
 show_on_news: true
 ---
 
-The Picom lab has been lauched in Florida Internationl University at Miami, FL.
+The Picomp lab has been lauched in Florida Internationl University at Miami, FL.

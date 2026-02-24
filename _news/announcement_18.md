@@ -6,4 +6,4 @@ related_posts: false
 show_on_news: true
 ---
 
-A PhD student Shouwei Gao joined Picom Lab.
+A PhD student Shouwei Gao joined Picomp Lab.

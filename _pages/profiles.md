@@ -29,7 +29,7 @@ nav: true
         <a href="https://wdong5.github.io/" target="_blank">Personal Website</a>
     </div>
     <div class="col-sm-5">
-       Wenqian Dong is an assistant professor in the School of EECS at <a href="https://engineering.oregonstate.edu/EECS" style="color:#538480;"> Oregon State University </a>. She is the director of Parallel Intelligent Computing (Picom) Lab.
+       Wenqian Dong is an assistant professor in the School of EECS at <a href="https://engineering.oregonstate.edu/EECS" style="color:#538480;"> Oregon State University </a>. She is the director of Parallel Intelligent Computing (Picomp) Lab.
     </div>  
 </div>  
 <br>

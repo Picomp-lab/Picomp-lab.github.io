@@ -6,5 +6,5 @@ img: assets/img/7.jpg
 importance: 2
 category: Ongoing
 related_publications: false
-github: https://github.com/Picom-lab/Axolotl
+github: https://github.com/Picomp-lab/Axolotl
 ---

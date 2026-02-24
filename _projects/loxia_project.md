@@ -6,5 +6,5 @@ img: assets/img/12.jpg
 importance: 2
 category: Ongoing
 related_publications: false
-github: https://github.com/Picom-lab/Loxia
+github: https://github.com/Picomp-lab/Loxia
 ---
