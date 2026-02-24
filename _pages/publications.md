@@ -9,10 +9,12 @@ nav_order: 5
 <!-- ## 2023 -->
 
 - **FLYING SERVING: On-the-Fly Parallelism Switching for Large Language Model Serving**
+
   Shouwei Gao, Junqi Yin, Feiyi Wang, Wenqian Dong
   In the ACM International Conference on Supercomputing (ICS'26) [<a href="https://dipsa-qub.github.io/ICS2026-webpage/">paper</a>]
 
 - **LUMOS: Democratizing SciML Workflows with L0-Regularized Learning for Unified Feature and Parameter Adaptation**
+  
   Shouwei Gao, Xu Zheng, Dongsheng Luo, Di Sheng, Wenqian Dong
   In the 40th IEEE International Parallel & Distributed Processing Symposium (IPDPS'26) [<a href="">paper</a>]
 
@@ -27,6 +29,7 @@ nav_order: 5
   In the Association for the Advancement of Artificial Intelligence 2025 Spring Symposium Series [<a href="https://ojs.aaai.org/index.php/AAAI-SS/article/view/35581">paper</a>] [<a href="https://github.com/Picomp-lab/Hurricast/blob/main/HurriCast%20Slides.pdf">slides</a>] [<a href="https://github.com/Picomp-lab/Hurricast?tab=readme-ov-file">code</a>]
 
 - **Framework for tracking metadata, lineage and model provenance in hybrid simulation-AI HPC exascale workflows**
+ 
   Martin Foltin, Andrew Shao, Rishabh Sharma, Shreyas Kulkarni, Annmary Justine Koomthanam, Aalap Tripathy, Cong Xu, Wenqian Dong, Suparna Bhattacharya, Brian Sammuli, Paolo Faraboschi
   In CUG '25: Proceedings of the Cray User Group [<a href="https://dl.acm.org/doi/10.1145/3757348.3757364">paper</a>]
 
