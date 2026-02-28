@@ -11,12 +11,17 @@ nav_order: 5
 - **FLYING SERVING: On-the-Fly Parallelism Switching for Large Language Model Serving**
 
   Shouwei Gao, Junqi Yin, Feiyi Wang, Wenqian Dong
-  In the ACM International Conference on Supercomputing (ICS'26) [<a href="https://dipsa-qub.github.io/ICS2026-webpage/">paper</a>]
+  In the ACM International Conference on Supercomputing (ICS'26) [<a href="https://arxiv.org/pdf/2602.22593">paper</a>] 
 
 - **LUMOS: Democratizing SciML Workflows with L0-Regularized Learning for Unified Feature and Parameter Adaptation**
   
   Shouwei Gao, Xu Zheng, Dongsheng Luo, Di Sheng, Wenqian Dong
-  In the 40th IEEE International Parallel & Distributed Processing Symposium (IPDPS'26) [<a href="">paper</a>]
+  In the 40th IEEE International Parallel & Distributed Processing Symposium (IPDPS'26) [<a href="https://arxiv.org/pdf/2602.22537v1">paper</a>] [<a href="https://github.com/Picomp-lab/LUMOS-IPDPS26">code</a>]
+
+- **Evaluating LLM Coding Agents on SZ-Family Lossy Compression Across Architectures**
+
+  Changqing Li, Shouwei Gao, Kai Zhao, Sheng Di, Wenqian Dong
+  In IEEE IPDPS Workshops, International Workshop on High-Performance AI for Science (IPDPS HPAI4S'26), 2026
 
 - **Enabling Unstructured Sparse Fine-Tuning and Inference for Foundation Models on Wafer-Scale Engine**
 
