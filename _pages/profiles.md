@@ -86,7 +86,24 @@ nav: true
 <br>
 <br clear="left"/>
 
+
 <div class="row justify-content-md-center">
+    <div class="col-sm-3">
+        <img class="img-fluid rounded z-depth-1 profile-img" src="{{ '/assets/img/xulu.png' | relative_url }}" alt="" title="Xulu Chu"/>
+    </div>
+    <div class="col-sm-4">
+        <b>Xulu Chu</b> <br>
+        Ph.D. student (2026 Spring --) <br>
+        Email: <a href="mailto:chuxu@oregonstate.edu">chuxu@oregonstate.edu</a> <br> 
+    </div>
+    <div class="col-sm-5">
+        Xulu's research interests include AI accelerators and system optimization for LLMs.
+    </div>  
+</div>  
+<br>
+<br clear="left"/>
+
+<!-- <div class="row justify-content-md-center">
     <div class="col-sm-3">
         <img class="img-fluid rounded z-depth-1 profile-img" src="{{ '/assets/img/Chelsi.jpg' | relative_url }}" alt="" title="Chelsi Chain "/>
     </div>
@@ -100,7 +117,40 @@ nav: true
     </div>  
 </div>  
 <br>
+<br clear="left"/> -->
+
+<div class="row justify-content-md-center">
+    <div class="col-sm-3">
+        <img class="img-fluid rounded z-depth-1 profile-img" src="{{ '/assets/img/tse-ting.jpg' | relative_url }}" alt="" title="Tse-Ting Lin"/>
+    </div>
+    <div class="col-sm-4">
+        <b>Tse-Ting Lin</b> <br>
+        Master student (Spring 2026 --) <br>
+        Email: <a href="mailto:lintse@oregonstate.edu">lintse@oregonstate.edu</a> <br> 
+    </div>
+    <div class="col-sm-5">
+        Tse-Ting's research interests include system optimization of RAG and AI agent.
+    </div>  
+</div>  
+<br>
 <br clear="left"/>
+
+<div class="row justify-content-md-center">
+    <div class="col-sm-3">
+        <img class="img-fluid rounded z-depth-1 profile-img" src="{{ '/assets/img/boss.jpg' | relative_url }}" alt="" title="Phannawich Jadpotwanich"/>
+    </div>
+    <div class="col-sm-4">
+        <b>Phannawich Jadpotwanich</b> <br>
+        Master student (Summer 2026 --) <br>
+        Email: <a href="mailto:jadpotwp@oregonstate.edu">jadpotwp@oregonstate.edu</a> <br> 
+    </div>
+    <div class="col-sm-5">
+        Phannawich's research interests include system optimization of AI agent.
+    </div>  
+</div>  
+<br>
+<br clear="left"/>
+
 
 ---
 
@@ -119,9 +169,9 @@ nav: true
 ---
 
 **Alumni**
-
-- Haoyu Zheng
-- Meiyan Gao First employment: Neocis Inc.
+- Chelsi Chain (2026 Winter, First employment: Lemurian Labs)
+- Haoyu Zheng (2025 Fall, Florida State University, PhD)
+- Meiyan Gao (2023 Spring, First employment: Neocis Inc.)
 
 <div class="people">
 
