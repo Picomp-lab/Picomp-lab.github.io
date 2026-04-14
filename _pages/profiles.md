@@ -23,7 +23,7 @@ nav: true
     </div>
     <div class="col-sm-4">
         <b>Wenqian Dong</b> <br>
-        Assistant Professor (2022 Fall --) <br><br>
+        Assistant Professor (Fall 2022 --) <br><br>
         Email: <a href="mailto:wenqian.dong@oregonstate.edu">wenqian.dong@oregonstate.edu</a> <br> 
         <a href="https://scholar.google.com/citations?user=6qIVck4AAAAJ&hl=en">Google scholar</a> <br>
         <a href="https://wdong5.github.io/" target="_blank">Personal Website</a>
@@ -45,7 +45,7 @@ nav: true
     </div>
     <div class="col-sm-4">
         <b>Shouwei Gao</b> <br>
-        Ph.D. student (2023 Fall --) <br>
+        Ph.D. student (Fall 2023 --) <br>
         Email: <a href="mailto:gaosho@oregonstate.edu">gaosho@oregonstate.edu</a> <br> 
     </div>
     <div class="col-sm-5">
@@ -76,7 +76,7 @@ nav: true
     </div>
     <div class="col-sm-4">
         <b>Changqing Li</b> <br>
-        Ph.D. student (2025 Fall --) <br>
+        Ph.D. student (Fall 2025 --) <br>
         Email: <a href="mailto:lic24@oregonstate.edu">lic24@oregonstate.edu</a> <br> 
     </div>
     <div class="col-sm-5">
@@ -93,7 +93,7 @@ nav: true
     </div>
     <div class="col-sm-4">
         <b>Xulu Chu</b> <br>
-        Ph.D. student (2026 Spring --) <br>
+        Ph.D. student (Spring 2026 --) <br>
         Email: <a href="mailto:chuxu@oregonstate.edu">chuxu@oregonstate.edu</a> <br> 
     </div>
     <div class="col-sm-5">
