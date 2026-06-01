@@ -21,12 +21,12 @@ nav_order: 5
 - **LUMOS: Democratizing SciML Workflows with L0-Regularized Learning for Unified Feature and Parameter Adaptation**
   
   Shouwei Gao, Xu Zheng, Dongsheng Luo, Di Sheng, Wenqian Dong
-  In the 40th IEEE International Parallel & Distributed Processing Symposium (IPDPS'26) [<a href="https://arxiv.org/pdf/2602.22537v1">paper</a>] [<a href="https://github.com/Picomp-lab/LUMOS-IPDPS26">code</a>]
+  In the 40th IEEE International Parallel & Distributed Processing Symposium (IPDPS'26) [<a href="https://arxiv.org/pdf/2602.22537v1">paper</a>] [<a href="../slides/publication/LUMOS_ Democratizing SciML Workflows with L0-Regularized Learning for Unified Feature and Parameter Adaptation (1).pdf">slides</a>] [<a href="https://github.com/Picomp-lab/LUMOS-IPDPS26">code</a>]
 
 - **Evaluating LLM Coding Agents on SZ-Family Lossy Compression Across Architectures**
 
   Changqing Li, Shouwei Gao, Kai Zhao, Sheng Di, Wenqian Dong
-  In IEEE IPDPS Workshops, International Workshop on High-Performance AI for Science (IPDPS HPAI4S'26), 2026
+  In IEEE IPDPS Workshops, International Workshop on High-Performance AI for Science (IPDPS HPAI4S'26), 2026 [<a href="../slides/publication/ShengDi_HPAI4S_IPDPS26.pdf">slides</a>]
 
 - **Enabling Unstructured Sparse Fine-Tuning and Inference for Foundation Models on Wafer-Scale Engine**
 
