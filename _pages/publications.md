@@ -8,10 +8,15 @@ nav_order: 5
 
 <!-- ## 2023 -->
 
+- **Towards Building Reliable Machine Learning Surrogates for Scientific Applications**
+
+  Bohan Zhang, Wenqian Dong, Guanpeng Li
+  In IEEE Cloud Summit 2026 [<a href="https://www.ieeecloudsummit.org/">conference</a>]
+
 - **FLYING SERVING: On-the-Fly Parallelism Switching for Large Language Model Serving**
 
   Shouwei Gao, Junqi Yin, Feiyi Wang, Wenqian Dong
-  In the ACM International Conference on Supercomputing (ICS'26) [<a href="https://arxiv.org/pdf/2602.22593">paper</a>] 
+  In the ACM International Conference on Supercomputing (ICS'26) [Best Paper Award nominee] [<a href="https://arxiv.org/pdf/2602.22593">paper</a>]
 
 - **LUMOS: Democratizing SciML Workflows with L0-Regularized Learning for Unified Feature and Parameter Adaptation**
   
