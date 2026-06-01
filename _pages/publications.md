@@ -16,7 +16,7 @@ nav_order: 5
 - **FLYING SERVING: On-the-Fly Parallelism Switching for Large Language Model Serving**
 
   Shouwei Gao, Junqi Yin, Feiyi Wang, Wenqian Dong
-  In the ACM International Conference on Supercomputing (ICS'26) [Best Paper Award nominee] [<a href="https://arxiv.org/pdf/2602.22593">paper</a>]
+  In the ACM International Conference on Supercomputing (ICS'26) [<span style="color:#f57b76;">Best Paper Award nominee</span>] [<a href="https://arxiv.org/pdf/2602.22593">paper</a>]
 
 - **LUMOS: Democratizing SciML Workflows with L0-Regularized Learning for Unified Feature and Parameter Adaptation**
   
