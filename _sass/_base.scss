@@ -657,8 +657,10 @@ h6 {
 }
 
 .publication-card {
+  position: relative;
+  min-height: 10.5rem;
   border-bottom: 1px solid var(--global-divider-color);
-  padding-bottom: 1.5rem;
+  padding: 0 0 1.5rem 13rem;
 
   &:last-child {
     border-bottom: 0;
@@ -666,6 +668,29 @@ h6 {
 
   p {
     margin-bottom: 0;
+  }
+}
+
+.publication-teaser {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  width: 12rem;
+  height: 9rem;
+  margin: 0;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 0.25rem;
+  background: #ffffff;
+
+  img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
   }
 }
 
@@ -774,6 +799,19 @@ h6 {
   .publication-card-heading {
     flex-direction: column;
     gap: 0.5rem;
+  }
+
+  .publication-card {
+    min-height: 0;
+    padding-left: 0;
+  }
+
+  .publication-teaser {
+    position: static;
+    width: 100%;
+    height: auto;
+    margin-bottom: 1rem;
+    aspect-ratio: 4 / 3;
   }
 
   .publication-award {
