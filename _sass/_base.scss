@@ -245,9 +245,9 @@ ul.task-list input[type="checkbox"] {
 
 .navbar {
   box-shadow: none;
-  border-bottom: 1px solid var(--global-divider-color);
-  background-color: var(--global-bg-color);
-  opacity: 0.95;
+  border-bottom: 3px solid var(--global-theme-color);
+  background-color: rgba(251, 250, 248, 0.96);
+  opacity: 1;
 }
 
 .navbar .dropdown-menu {
@@ -495,13 +495,80 @@ footer.fixed-bottom {
 
 footer.sticky-bottom {
   border-top: 1px solid var(--global-divider-color);
-  padding-top: 40px;
-  padding-bottom: 40px;
+  padding-top: 1.25rem;
+  padding-bottom: 1.9rem;
+  color: var(--global-footer-text-color);
   font-size: 0.9rem;
 
   .container {
     text-align: center;
   }
+}
+
+// PiComp visual identity: align typography and surfaces with Wenqian Dong's site.
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.navbar-brand,
+.navbar-nav {
+  font-family: Palatino, "Palatino Linotype", "Book Antiqua", "Source Serif 4", Georgia, "Times New Roman", serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--global-text-color);
+  line-height: 1.2;
+}
+
+.post-title {
+  font-weight: 700;
+}
+
+.navbar .container {
+  min-height: 3.6rem;
+}
+
+.navbar .navbar-brand,
+.navbar .nav-link {
+  font-weight: 600;
+}
+
+.navbar .navbar-brand {
+  font-size: 1.15rem;
+}
+
+.navbar .nav-link {
+  font-size: 0.92rem;
+}
+
+.card,
+.list-group-item,
+.news table {
+  border-color: var(--global-divider-color);
+}
+
+.card {
+  border-radius: 4px;
+  box-shadow: none;
+}
+
+.profile img {
+  border: 1px solid var(--global-divider-color);
+  border-radius: 4px;
+  box-shadow: 0 2px 8px rgba(31, 31, 31, 0.08);
+}
+
+.profile .more-info {
+  color: var(--global-text-color-light);
+  font-family: Palatino, "Palatino Linotype", "Book Antiqua", "Source Serif 4", Georgia, "Times New Roman", serif;
+  font-size: 0.9rem;
 }
 
 // CV
