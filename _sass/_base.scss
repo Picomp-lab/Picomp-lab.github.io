@@ -527,8 +527,31 @@ h6 {
   line-height: 1.2;
 }
 
+h1 {
+  font-size: 1.95rem;
+}
+
+h2 {
+  font-size: 1.35rem;
+}
+
+h3 {
+  font-size: 1.1rem;
+}
+
 .post-title {
   font-weight: 700;
+}
+
+.section-title {
+  margin-top: 3rem;
+  margin-bottom: 1.25rem;
+  border-left: 4px solid var(--global-theme-color);
+  padding-left: 0.55rem;
+
+  a {
+    color: inherit;
+  }
 }
 
 .navbar .container {
