@@ -10,7 +10,7 @@ nav: true
   <ul class="people-list">
     <li class="person">
       <img class="person-photo" src="{{ '/assets/img/Wenqian_Dong.jpg' | relative_url }}" alt="Wenqian Dong">
-      <div>
+      <div class="person-meta">
         <p class="person-name">Wenqian Dong</p>
         <p class="person-role">Assistant Professor (Fall 2022&ndash;)</p>
         <p class="person-contact">
@@ -18,8 +18,8 @@ nav: true
           <a href="https://scholar.google.com/citations?user=6qIVck4AAAAJ&hl=en">Google Scholar</a>
           <a href="https://wdong5.github.io/" target="_blank">Personal Website</a>
         </p>
-        <p class="person-bio">Wenqian Dong is an assistant professor in the School of EECS at <a href="https://engineering.oregonstate.edu/EECS">Oregon State University</a>. She is the director of the Parallel Intelligent Computing (Picomp) Lab.</p>
       </div>
+      <p class="person-bio">Wenqian Dong is an assistant professor in the School of EECS at <a href="https://engineering.oregonstate.edu/EECS">Oregon State University</a>. She is the director of the Parallel Intelligent Computing (Picomp) Lab.</p>
     </li>
   </ul>
 </div>
@@ -29,39 +29,39 @@ nav: true
   <ul class="people-list">
     <li class="person">
       <img class="person-photo" src="{{ '/assets/img/Shouwei_gao_cunzhao.jpg' | relative_url }}" alt="Shouwei Gao">
-      <div>
+      <div class="person-meta">
         <p class="person-name">Shouwei Gao</p>
         <p class="person-role">Ph.D. student (Fall 2023&ndash;)</p>
         <p class="person-contact"><a href="mailto:gaosho@oregonstate.edu">Email</a></p>
-        <p class="person-bio">Shouwei's research interests include AI for science, large-scale ML/AI models, and explainable AI.</p>
       </div>
+      <p class="person-bio">Shouwei's research interests include AI for science, large-scale ML/AI models, and explainable AI.</p>
     </li>
     <li class="person">
       <img class="person-photo" src="{{ '/assets/img/Arunavo.jpg' | relative_url }}" alt="Arunavo Dey">
-      <div>
+      <div class="person-meta">
         <p class="person-name">Arunavo Dey</p>
         <p class="person-role">Ph.D. student (Fall 2025&ndash;)</p>
         <p class="person-contact"><a href="mailto:deyaru@oregonstate.edu">Email</a></p>
-        <p class="person-bio">Arunavo's research interests include high-performance computing and system optimization for agentic AI workflows.</p>
       </div>
+      <p class="person-bio">Arunavo's research interests include high-performance computing and system optimization for agentic AI workflows.</p>
     </li>
     <li class="person">
       <img class="person-photo" src="{{ '/assets/img/Changqing.jpg' | relative_url }}" alt="Changqing Li">
-      <div>
+      <div class="person-meta">
         <p class="person-name">Changqing Li</p>
         <p class="person-role">Ph.D. student (Fall 2025&ndash;)</p>
         <p class="person-contact"><a href="mailto:lic24@oregonstate.edu">Email</a></p>
-        <p class="person-bio">Changqing's research interests include AI accelerators and system optimization for LLMs.</p>
       </div>
+      <p class="person-bio">Changqing's research interests include AI accelerators and system optimization for LLMs.</p>
     </li>
     <li class="person">
       <img class="person-photo" src="{{ '/assets/img/xulu.png' | relative_url }}" alt="Xulu Chu">
-      <div>
+      <div class="person-meta">
         <p class="person-name">Xulu Chu</p>
         <p class="person-role">Ph.D. student (Spring 2026&ndash;)</p>
         <p class="person-contact"><a href="mailto:chuxu@oregonstate.edu">Email</a></p>
-        <p class="person-bio">Xulu's research interests include AI accelerators and system optimization for LLMs.</p>
       </div>
+      <p class="person-bio">Xulu's research interests include AI accelerators and system optimization for LLMs.</p>
     </li>
   </ul>
 </div>
@@ -71,21 +71,21 @@ nav: true
   <ul class="people-list">
     <li class="person">
       <img class="person-photo" src="{{ '/assets/img/tse-ting.jpg' | relative_url }}" alt="Tse-Ting Lin">
-      <div>
+      <div class="person-meta">
         <p class="person-name">Tse-Ting Lin</p>
         <p class="person-role">Master's student (Spring 2026&ndash;)</p>
         <p class="person-contact"><a href="mailto:lintse@oregonstate.edu">Email</a></p>
-        <p class="person-bio">Tse-Ting's research interests include system optimization of RAG and AI agents.</p>
       </div>
+      <p class="person-bio">Tse-Ting's research interests include system optimization of RAG and AI agents.</p>
     </li>
     <li class="person">
       <img class="person-photo" src="{{ '/assets/img/boss.jpg' | relative_url }}" alt="Phannawich Jadpotwanich">
-      <div>
+      <div class="person-meta">
         <p class="person-name">Phannawich Jadpotwanich</p>
         <p class="person-role">Master's student (Summer 2026&ndash;)</p>
         <p class="person-contact"><a href="mailto:jadpotwp@oregonstate.edu">Email</a></p>
-        <p class="person-bio">Phannawich's research interests include system optimization of AI agents.</p>
       </div>
+      <p class="person-bio">Phannawich's research interests include system optimization of AI agents.</p>
     </li>
   </ul>
 </div>
