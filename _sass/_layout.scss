@@ -32,6 +32,11 @@ body.sticky-bottom-footer {
 
 .container {
   max-width: $max-content-width;
+  // Let the outer gutter shrink first as the viewport narrows, instead of
+  // jumping straight from a fixed 15px edge to squeezing inner content
+  // (grids, text columns) once the viewport drops below max-width.
+  padding-left: clamp(1rem, 4vw, 3rem);
+  padding-right: clamp(1rem, 4vw, 3rem);
 }
 
 // Profile
