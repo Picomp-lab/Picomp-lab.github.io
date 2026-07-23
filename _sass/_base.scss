@@ -599,7 +599,7 @@ h6 {
     padding: 0.55rem 1rem 0.55rem 2.5rem;
     color: var(--global-text-color);
     font-family: inherit;
-    font-size: 0.875rem;
+    font-size: 0.95rem;
 
     &:focus {
       border-color: var(--global-text-color);
@@ -618,7 +618,7 @@ h6 {
     display: block;
     margin-bottom: 0.5rem;
     color: #4d4742;
-    font-size: 0.875rem;
+    font-size: 0.9rem;
     font-weight: 600;
   }
 
@@ -630,7 +630,7 @@ h6 {
     padding: 0.55rem 2rem 0.55rem 1rem;
     color: var(--global-text-color);
     font-family: inherit;
-    font-size: 0.875rem;
+    font-size: 0.95rem;
 
     &:focus {
       border-color: var(--global-text-color);
@@ -716,21 +716,21 @@ h6 {
   gap: 0.3rem;
   border-radius: 0.25rem;
   background: #f3f0ea;
-  padding: 0.25rem 0.5rem;
+  padding: 0.25rem 0.55rem;
   color: #4d4742;
-  font-size: 0.75rem;
+  font-size: 0.8rem;
   line-height: 1.2;
 }
 
 .publication-authors {
   color: #4d4742;
-  font-size: 0.875rem;
+  font-size: 0.95rem;
 }
 
 .publication-venue {
   margin-top: 0.2rem;
   color: var(--global-text-color-light);
-  font-size: 0.875rem;
+  font-size: 0.9rem;
 
   strong {
     color: inherit;
@@ -741,7 +741,7 @@ h6 {
     display: block;
     margin-top: 0.1rem;
     color: #948a82;
-    font-size: 0.75rem;
+    font-size: 0.8rem;
   }
 }
 
@@ -754,9 +754,9 @@ h6 {
   span {
     border-radius: 0.25rem;
     background: #f3f0ea;
-    padding: 0.25rem 0.5rem;
+    padding: 0.25rem 0.55rem;
     color: #4d4742;
-    font-size: 0.75rem;
+    font-size: 0.8rem;
   }
 }
 
@@ -765,7 +765,7 @@ h6 {
   flex-wrap: wrap;
   gap: 0.5rem 1rem;
   margin-top: 0.75rem;
-  font-size: 0.875rem;
+  font-size: 0.9rem;
 
   a {
     color: #4d4742;
