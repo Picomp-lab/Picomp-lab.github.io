@@ -672,6 +672,67 @@ h3 {
   }
 }
 
+// Funding sponsors grid, matching wdong5.github.io's sponsors section.
+.sponsors {
+  margin-top: 2rem;
+  border-top: 1px solid var(--global-divider-color);
+  padding-top: 1.5rem;
+
+  .section-title {
+    margin-top: 0;
+  }
+}
+
+.sponsor-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 0.85rem;
+}
+
+.sponsor {
+  display: flex;
+  align-items: center;
+  gap: 0.85rem;
+  min-width: 0;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 4px;
+  padding: 0.85rem;
+  color: var(--global-text-color-light);
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+  font-size: 0.78rem;
+  font-weight: 700;
+  line-height: 1.25;
+  text-decoration: none;
+}
+
+.sponsor:hover {
+  border-color: var(--global-theme-color);
+  background: #f3f0ea;
+  color: var(--global-text-color);
+}
+
+.sponsor img {
+  flex: 0 0 3.5rem;
+  width: 3.5rem;
+  height: 3.5rem;
+  object-fit: contain;
+}
+
+.sponsor-doe {
+  justify-content: center;
+}
+
+.sponsor-doe img {
+  flex-basis: 9rem;
+  width: 9rem;
+}
+
+@media (max-width: 767px) {
+  .sponsor-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
 .navbar .container {
   min-height: 3.6rem;
 }

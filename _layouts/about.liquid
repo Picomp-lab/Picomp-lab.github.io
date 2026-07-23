@@ -77,4 +77,9 @@ layout: default
       {% include newsletter.liquid center=true %}
     {% endif %}
   </article>
+
+  <!-- Sponsors -->
+  {% if page.sponsors %}
+    {% include sponsors.liquid %}
+  {% endif %}
 </div>

@@ -1,0 +1,19 @@
+<section class="sponsors" aria-labelledby="sponsors-title">
+  <h2 id="sponsors-title" class="section-title">Sponsors</h2>
+  <div class="sponsor-grid">
+    {% for sponsor in site.data.sponsors %}
+      <a class="sponsor{% if sponsor.class %} {{ sponsor.class }}{% endif %}" href="{{ sponsor.url }}">
+        <img
+          src="{{ sponsor.img }}"
+          alt="{% unless sponsor.hide_label %}{{ sponsor.name }}{% endunless %}"
+          width="{{ sponsor.width }}"
+          height="{{ sponsor.height }}"
+          loading="lazy"
+        >
+        {% unless sponsor.hide_label %}
+          <span>{{ sponsor.name }}</span>
+        {% endunless %}
+      </a>
+    {% endfor %}
+  </div>
+</section>

@@ -1,0 +1,25 @@
+- name: Oregon State University
+  url: https://oregonstate.edu/
+  img: https://oregonstate.edu/themes/custom/madrone_homepage/favicon.ico
+  width: 56
+  height: 56
+
+- name: U.S. National Science Foundation
+  url: https://www.nsf.gov/
+  img: https://www.nsf.gov/themes/custom/nsf_theme/logo-200x200.png
+  width: 56
+  height: 56
+
+- name: U.S. Department of Energy
+  url: https://www.energy.gov/
+  img: https://www.energy.gov/themes/custom/energy_gov/img/logo-image.png
+  width: 144
+  height: 56
+  class: sponsor-doe
+  hide_label: true
+
+- name: Argonne National Laboratory
+  url: https://www.anl.gov/
+  img: https://www.anl.gov/sites/www/themes/custom/anl_public_theme/favicon.ico
+  width: 56
+  height: 56
