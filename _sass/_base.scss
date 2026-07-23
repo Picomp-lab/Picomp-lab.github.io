@@ -554,6 +554,109 @@ h3 {
   }
 }
 
+// Compact bulleted list, matching wdong5.github.io's detail-list pattern.
+.detail-list {
+  margin: 0 0 1.5rem;
+  padding: 0;
+  list-style: none;
+
+  li {
+    position: relative;
+    border-top: 1px solid var(--global-divider-color);
+    padding: 0.4rem 0 0.4rem 1.1rem;
+  }
+
+  li:first-child {
+    border-top: 0;
+    padding-top: 0;
+  }
+
+  li::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0.95rem;
+    width: 0.4rem;
+    height: 0.4rem;
+    border-radius: 50%;
+    background: var(--global-theme-color);
+  }
+}
+
+// Compact people roster, matching wdong5.github.io's publication/detail-list grid pattern.
+.people-group {
+  margin-bottom: 0.5rem;
+}
+
+.people-list {
+  margin: 0 0 1.5rem;
+  padding: 0;
+  list-style: none;
+}
+
+.person {
+  display: grid;
+  grid-template-columns: 6.5rem minmax(0, 1fr);
+  gap: 0 1.1rem;
+  align-items: start;
+  border-top: 1px solid var(--global-divider-color);
+  padding: 1rem 0;
+}
+
+.people-list > .person:first-child {
+  border-top: 0;
+  padding-top: 0;
+}
+
+.person-photo {
+  width: 6.5rem;
+  height: 6.5rem;
+  object-fit: cover;
+  object-position: top;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 4px;
+}
+
+.person-name {
+  margin: 0;
+  font-weight: 700;
+  font-size: 1.02rem;
+}
+
+.person-role {
+  margin: 0.15rem 0 0.4rem;
+  color: var(--global-text-color-light);
+  font-size: 0.9rem;
+}
+
+.person-contact {
+  margin: 0 0 0.4rem;
+  font-size: 0.88rem;
+
+  a + a {
+    margin-left: 0.65rem;
+  }
+}
+
+.person-bio {
+  margin: 0;
+  color: var(--global-text-color-light);
+  font-size: 0.92rem;
+  line-height: 1.5;
+}
+
+@media (max-width: 575px) {
+  .person {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .person-photo {
+    width: 5rem;
+    height: 5rem;
+    margin-bottom: 0.5rem;
+  }
+}
+
 .navbar .container {
   min-height: 3.6rem;
 }
@@ -572,16 +675,60 @@ h3 {
 }
 
 .card,
-.list-group-item,
-.news table {
+.list-group-item {
   border-color: var(--global-divider-color);
 }
 
-.news table td,
-.news table th {
-  line-height: 1.4;
-  padding-top: 0.4rem;
-  padding-bottom: 0.4rem;
+// Compact news list, matching wdong5.github.io's news-list pattern.
+.news-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-size: 0.95rem;
+}
+
+.news-list li {
+  display: grid;
+  grid-template-columns: 6.5rem minmax(0, 1fr);
+  gap: 0.85rem;
+  border-top: 1px solid var(--global-divider-color);
+  padding: 0.5rem 0;
+}
+
+.news-list li:first-child {
+  border-top: 0;
+  padding-top: 0;
+}
+
+.news-list time {
+  color: var(--global-theme-color);
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+.news-list a {
+  color: inherit;
+  text-decoration-color: var(--global-text-color-light);
+
+  &:hover {
+    color: var(--global-theme-color);
+  }
+}
+
+.news-scroll {
+  max-height: 24rem;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 4px;
+  padding: 0.5rem 0.85rem;
+}
+
+@media (max-width: 575px) {
+  .news-list li {
+    grid-template-columns: 1fr;
+    gap: 0.15rem;
+  }
 }
 
 .card {
@@ -603,7 +750,7 @@ h3 {
 
 // Interactive publication index.
 .publication-filters {
-  margin-bottom: 3rem;
+  margin-bottom: 1.5rem;
 }
 
 .publication-search {
