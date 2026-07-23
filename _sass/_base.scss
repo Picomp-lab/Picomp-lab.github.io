@@ -217,7 +217,7 @@ ul.task-list input[type="checkbox"] {
 
 @media (min-width: 576px) {
   .profile {
-    width: 30%;
+    width: 24%;
 
     .address {
       p {
@@ -544,8 +544,8 @@ h3 {
 }
 
 .section-title {
-  margin-top: 3rem;
-  margin-bottom: 1.25rem;
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
   border-left: 4px solid var(--global-theme-color);
   padding-left: 0.55rem;
 
@@ -575,6 +575,13 @@ h3 {
 .list-group-item,
 .news table {
   border-color: var(--global-divider-color);
+}
+
+.news table td,
+.news table th {
+  line-height: 1.4;
+  padding-top: 0.4rem;
+  padding-bottom: 0.4rem;
 }
 
 .card {
