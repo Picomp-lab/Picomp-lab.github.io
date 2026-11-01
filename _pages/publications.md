@@ -51,12 +51,12 @@ nav_order: 5
     </article>
 
     <article class="publication-card" data-year="2026" data-topics="LLM Systems|Machine Learning Systems">
-      <figure class="publication-teaser"><img src="{{ '/assets/img/publications/flying-serving.webp' | relative_url }}" alt="Flying Serving system overview" loading="lazy"></figure>
+      <figure class="publication-teaser"><img src="{{ '/assets/img/publications/flying-serving.webp' | relative_url }}" alt="Flying Serving architecture overview (Figure 3 from the paper)" loading="lazy"></figure>
       <div class="publication-card-heading"><h3>FLYING SERVING: On-the-Fly Parallelism Switching for Large Language Model Serving</h3><span class="publication-award"><i class="ti ti-award" aria-hidden="true"></i> Best Paper Award nominee</span></div>
       <p class="publication-authors">Shouwei Gao, Junqi Yin, Feiyi Wang, Wenqian Dong</p>
       <p class="publication-venue"><strong>ACM International Conference on Supercomputing (ICS'26)</strong></p>
       <div class="publication-tags"><span>LLM Systems</span><span>Machine Learning Systems</span></div>
-      <div class="publication-links"><a href="https://arxiv.org/pdf/2602.22593">Paper</a></div>
+      <div class="publication-links"><a href="https://arxiv.org/pdf/2602.22593">Paper</a><a href="https://github.com/Picomp-lab/Flying-Serving">GitHub</a></div>
     </article>
 
     <article class="publication-card" data-year="2026" data-topics="AI for Science|Scientific Machine Learning">
