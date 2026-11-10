@@ -32,6 +32,15 @@ nav_order: 5
   <p class="publication-empty" data-publication-empty hidden>No publications found with the selected filters.</p>
 
   <div class="publication-year-groups" data-publication-results>
+    <article class="publication-card" data-year="2027" data-topics="AI Accelerators|Database Systems">
+      <figure class="publication-teaser"><img src="{{ '/assets/img/publications/selectivity-inversion-hpca27.png' | relative_url }}" alt="Cover illustration for When Less Work Costs More: Selectivity Inversion of Vector Search on Wafer-Scale Engine" loading="lazy"></figure>
+      <div class="publication-card-heading"><h3>When Less Work Costs More: Selectivity Inversion of Vector Search on Wafer-Scale Engine</h3></div>
+      <p class="publication-authors">Changqing Li, Sheng Di, Wenqian Dong</p>
+      <p class="publication-venue"><strong>IEEE International Symposium on High-Performance Computer Architecture (HPCA'27)</strong><small>Accepted · Acceptance rate: 17.9%</small></p>
+      <div class="publication-tags"><span>AI Accelerators</span><span>Database Systems</span></div>
+      <div class="publication-links"><a href="https://conf.researchr.org/home/hpca-2027">Conference</a></div>
+    </article>
+
     <article class="publication-card" data-year="2026" data-topics="High-Performance Computing|LLM Systems">
       <figure class="publication-teaser"><img src="{{ '/assets/img/publications/sc26.svg' | relative_url }}" alt="LLM agents and lossy compression benchmark teaser" loading="lazy"></figure>
       <div class="publication-card-heading"><h3>LLM Agents Meet Lossy Compression: Benchmark, Demystify and Optimize across HPC Architectures</h3></div>
